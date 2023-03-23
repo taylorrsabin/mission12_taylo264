@@ -329,6 +329,7 @@ const teams = [
           {"tid": 287, "cid": 19, "did": 39, "school": "Houston Baptist", "name": "Huskies", "abbrev": "HBU", "pop": 33, "city": "Greater Sharpstown", "state": "TX", "latitude": 29.694 , "longitude": -95.515}  
   ];
 
+// Welcome heading
 function Welcome() {
   return (
     <div>
@@ -339,6 +340,7 @@ function Welcome() {
   );
 }
 
+// Component for each team and its information
 class Team extends React.Component  <{name: string; school: string; city: string; state: string}> {
   render() {
     const oneTeam = this.props;
@@ -355,6 +357,7 @@ class Team extends React.Component  <{name: string; school: string; city: string
   }
 }
 
+// Create a list of all teams and their information
 function TeamList() {
   return(
   <div>
@@ -363,6 +366,7 @@ function TeamList() {
   );
 }
 
+// Component for each team name
 class TeamName extends React.Component <{school: string}> {
   render() {
     const oneTeam= this.props;
@@ -375,6 +379,7 @@ class TeamName extends React.Component <{school: string}> {
   }
 }
 
+// Create a list of all team names
 function TeamNameList() {
   return(
     <div>
@@ -383,6 +388,7 @@ function TeamNameList() {
   )
 }
 
+// Main function
 function App() {
   return (
     <div className="App">
