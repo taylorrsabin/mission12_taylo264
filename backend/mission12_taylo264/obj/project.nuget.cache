@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HmFz43e13ZWLRLdnMtiyWu87Es80aJ8H9OJLz3IhSAsTaM35sqV0TlGww2JM22OW8ZxQOCBKLEJLmpgWj7RIaQ==",
+  "success": true,
+  "projectFilePath": "/Users/tsabinqualtrics.com/Projects/mission12_taylo264/mission12_taylo264.csproj",
+  "expectedPackageFiles": [
+    "/Users/tsabinqualtrics.com/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/tsabinqualtrics.com/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/tsabinqualtrics.com/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/tsabinqualtrics.com/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/tsabinqualtrics.com/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/tsabinqualtrics.com/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
